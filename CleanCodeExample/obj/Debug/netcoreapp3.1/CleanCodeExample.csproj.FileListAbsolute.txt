@@ -1,0 +1,13 @@
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.exe
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.deps.json
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.runtimeconfig.json
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.runtimeconfig.dev.json
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.dll
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.pdb
+C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.csprojAssemblyReference.cache
+C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.csproj.CoreCompileInputs.cache
+C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.AssemblyInfoInputs.cache
+C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.AssemblyInfo.cs
+C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.dll
+C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.pdb
+C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.genruntimeconfig.cache

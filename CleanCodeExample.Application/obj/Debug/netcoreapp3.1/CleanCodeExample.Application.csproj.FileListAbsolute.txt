@@ -1,0 +1,12 @@
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\obj\Debug\netcoreapp3.1\CleanCodeExample.Application.csprojAssemblyReference.cache
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\obj\Debug\netcoreapp3.1\CleanCodeExample.Application.csproj.CoreCompileInputs.cache
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\obj\Debug\netcoreapp3.1\CleanCodeExample.Application.AssemblyInfoInputs.cache
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\obj\Debug\netcoreapp3.1\CleanCodeExample.Application.AssemblyInfo.cs
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\bin\Debug\netcoreapp3.1\CleanCodeExample.Application.deps.json
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\bin\Debug\netcoreapp3.1\CleanCodeExample.Application.dll
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\bin\Debug\netcoreapp3.1\CleanCodeExample.Application.pdb
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\bin\Debug\netcoreapp3.1\CleanCodeExample.Domain.dll
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\bin\Debug\netcoreapp3.1\CleanCodeExample.Domain.pdb
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\obj\Debug\netcoreapp3.1\CleanCodeExample.Application.csproj.CopyComplete
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\obj\Debug\netcoreapp3.1\CleanCodeExample.Application.dll
+C:\Projects\CleanCodeExample\CleanCodeExample.Application\obj\Debug\netcoreapp3.1\CleanCodeExample.Application.pdb

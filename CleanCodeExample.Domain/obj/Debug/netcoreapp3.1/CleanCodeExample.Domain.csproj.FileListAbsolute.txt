@@ -1,0 +1,9 @@
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\bin\Debug\netcoreapp3.1\CleanCodeExample.Domain.deps.json
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\bin\Debug\netcoreapp3.1\CleanCodeExample.Domain.dll
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\bin\Debug\netcoreapp3.1\CleanCodeExample.Domain.pdb
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\obj\Debug\netcoreapp3.1\CleanCodeExample.Domain.csprojAssemblyReference.cache
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\obj\Debug\netcoreapp3.1\CleanCodeExample.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\obj\Debug\netcoreapp3.1\CleanCodeExample.Domain.AssemblyInfoInputs.cache
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\obj\Debug\netcoreapp3.1\CleanCodeExample.Domain.AssemblyInfo.cs
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\obj\Debug\netcoreapp3.1\CleanCodeExample.Domain.dll
+C:\Projects\CleanCodeExample\CleanCodeExample.Domain\obj\Debug\netcoreapp3.1\CleanCodeExample.Domain.pdb

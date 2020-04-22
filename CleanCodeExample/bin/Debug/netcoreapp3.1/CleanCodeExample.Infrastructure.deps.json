@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "CleanCodeExample.Infrastructure/1.0.0": {
         "dependencies": {
+          "CleanCodeExample.Application": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.3",
           "Microsoft.Extensions.Logging": "3.1.3",
           "Microsoft.Extensions.Logging.Abstractions": "3.1.3",
@@ -165,6 +166,19 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0"
         }
+      },
+      "CleanCodeExample.Application/1.0.0": {
+        "dependencies": {
+          "CleanCodeExample.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanCodeExample.Application.dll": {}
+        }
+      },
+      "CleanCodeExample.Domain/1.0.0": {
+        "runtime": {
+          "CleanCodeExample.Domain.dll": {}
+        }
       }
     }
   },
@@ -285,6 +299,16 @@
       "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
       "path": "system.runtime/4.3.0",
       "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "CleanCodeExample.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanCodeExample.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

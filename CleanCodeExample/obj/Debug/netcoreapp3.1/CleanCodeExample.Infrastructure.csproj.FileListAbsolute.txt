@@ -24,3 +24,7 @@ C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeE
 C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.Infrastructure.genruntimeconfig.cache
 C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Projects\CleanCodeExample\CleanCodeExample\obj\Debug\netcoreapp3.1\CleanCodeExample.Infrastructure.csprojAssemblyReference.cache
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.Application.dll
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.Domain.dll
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.Application.pdb
+C:\Projects\CleanCodeExample\CleanCodeExample\bin\Debug\netcoreapp3.1\CleanCodeExample.Domain.pdb

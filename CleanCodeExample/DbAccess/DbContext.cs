@@ -1,20 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using CleanCodeExample.Application.Models;
 using CleanCodeExample.Application.OperationSchedule;
+using CleanCodeExample.Domain.Entities;
 
 namespace CleanCodeExample.Infrastructure.DbAccess
 {
     public class DbContext: IDbContext
     {
-        private List<TimeSeriesDto> timeSeries;
+        private readonly List<TimeSeries> _timeSeries;
 
-        public void Add(TimeSeriesDto timeSeriesDto)
+        public DbContext()
         {
-            timeSeries.Add(timeSeriesDto);
+            _timeSeries = new List<TimeSeries>();
         }
 
-        public void Get()
+        public void Add(TimeSeries timeSeries)
+        {
+            _timeSeries.Add(timeSeries);
+        }
+
+        public void Save()
+        {
+            
+        }
     }
 }
